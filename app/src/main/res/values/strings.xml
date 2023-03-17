@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Myfamily</string>
+    <string name="security">Security</string>
+    <string name="sos">SOS</string>
+    <string name="guard">GUARD</string>
+    <string name="home">Home</string>
+    <string name="deshboard">DeshBoard</string>
+    <string name="gard">Gard</string>
+    <string name="profile">Profile</string>
+    <string name="myfamily">MyFamily</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

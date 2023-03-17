@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="textStyle" format="enum">
+    <enum name="normal" value="0"/>
+    <enum name="bold" value="1"/>
+    <enum name="italic" value="2"/>
+
+</attr>
+
+</resources>
